@@ -1,0 +1,12 @@
+.checkboxList {
+  margin: 20px 0;
+}
+
+.checkboxItem {
+  display: block;
+  margin: 10px 0;
+}
+
+.selectAllCheckbox {
+  margin-bottom: 20px;
+}
